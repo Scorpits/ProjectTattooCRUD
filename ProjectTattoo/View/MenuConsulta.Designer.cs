@@ -178,11 +178,11 @@
             // label_horario
             // 
             this.label_horario.AutoSize = true;
-            this.label_horario.Location = new System.Drawing.Point(10, 116);
+            this.label_horario.Location = new System.Drawing.Point(25, 116);
             this.label_horario.Name = "label_horario";
-            this.label_horario.Size = new System.Drawing.Size(44, 13);
+            this.label_horario.Size = new System.Drawing.Size(26, 13);
             this.label_horario.TabIndex = 16;
-            this.label_horario.Text = "Horario:";
+            this.label_horario.Text = "Dia:";
             // 
             // txt_horario
             // 

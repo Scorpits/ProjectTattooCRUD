@@ -200,9 +200,9 @@
             this.label_horario.AutoSize = true;
             this.label_horario.Location = new System.Drawing.Point(111, 185);
             this.label_horario.Name = "label_horario";
-            this.label_horario.Size = new System.Drawing.Size(107, 13);
+            this.label_horario.Size = new System.Drawing.Size(89, 13);
             this.label_horario.TabIndex = 18;
-            this.label_horario.Text = "Horario da Tatuagem";
+            this.label_horario.Text = "Dia da Tatuagem";
             // 
             // date_horario
             // 
